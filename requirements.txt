@@ -1,0 +1,10 @@
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+# TensorFlow is optional - script will use MLPRegressor if TensorFlow fails to load
+# For Python 3.12 on Windows, try: pip install tensorflow==2.15.0
+# Or install Microsoft Visual C++ Redistributable: https://aka.ms/vs/17/release/vc_redist.x64.exe
+tensorflow>=2.15.0
+

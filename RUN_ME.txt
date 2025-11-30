@@ -1,0 +1,37 @@
+═══════════════════════════════════════════════════════════════
+   EnerSense Grid - How to Run
+═══════════════════════════════════════════════════════════════
+
+STEP 1: Install Dependencies
+───────────────────────────────────────────────────────────────
+Run this command in your terminal:
+
+    npm install
+
+Wait for all packages to install (this may take 1-2 minutes)
+
+
+STEP 2: Start the Server
+───────────────────────────────────────────────────────────────
+Run this command:
+
+    npm run dev
+
+
+STEP 3: Open Browser
+───────────────────────────────────────────────────────────────
+The app will automatically show you a URL, usually:
+
+    http://localhost:5173
+
+Click it or copy-paste into your browser!
+
+
+═══════════════════════════════════════════════════════════════
+
+That's it! The app will be running.
+
+To stop: Press Ctrl + C in the terminal
+
+═══════════════════════════════════════════════════════════════
+
